@@ -1,0 +1,20 @@
+<svg width="100" height="102" viewBox="0 0 100 102" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Tweeter">
+<g id="Rectangle 7" filter="url(#filter0_d_101_59)">
+<path d="M4 15C4 6.71573 10.7157 0 19 0H81C89.2843 0 96 6.71573 96 15V64C96 80.5685 82.5685 94 66 94H4V15Z" fill="white"/>
+</g>
+<path id="Vector" d="M67.2717 39.2211C67.3009 39.6257 67.3009 40.0305 67.3009 40.4352C67.3009 52.7781 57.8149 67 40.4772 67C35.1358 67 30.1739 65.4679 26 62.8086C26.7589 62.8953 27.4885 62.9242 28.2766 62.9242C32.684 62.9242 36.7411 61.45 39.981 58.9352C35.8363 58.8484 32.3629 56.1602 31.1662 52.4602C31.75 52.5468 32.3337 52.6047 32.9467 52.6047C33.7932 52.6047 34.6397 52.489 35.4277 52.2867C31.1079 51.4195 27.8679 47.6617 27.8679 43.1234V43.0078C29.123 43.7016 30.5825 44.1352 32.1293 44.1929C29.59 42.5163 27.9263 39.6546 27.9263 36.4171C27.9263 34.6828 28.3933 33.0929 29.2106 31.7054C33.8515 37.371 40.8274 41.071 48.6497 41.4757C48.5038 40.782 48.4162 40.0594 48.4162 39.3367C48.4162 34.1914 52.6193 30 57.8439 30C60.5584 30 63.0101 31.1273 64.7322 32.9484C66.8629 32.5438 68.906 31.7633 70.7158 30.6938C70.0152 32.8618 68.5266 34.6829 66.5711 35.839C68.4683 35.6368 70.3072 35.1164 72 34.3938C70.7159 36.2437 69.1105 37.8913 67.2717 39.2211Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_d_101_59" x="0" y="0" width="100" height="102" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_101_59"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_101_59" result="shape"/>
+</filter>
+</defs>
+</svg>
